@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tagButtonWidth">230dp</dimen>
+    <dimen name="editButtonWidth">50dp</dimen>
+    <dimen name="tagged_searches_padding">8dp</dimen>
+    <dimen name="item_height">48dp</dimen>
+</resources>
