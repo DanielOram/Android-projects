@@ -20,7 +20,8 @@ import com.danieloram.android.things_for_daniel_todo_app.db.TaskContract;
 import com.danieloram.android.things_for_daniel_todo_app.db.TaskDBHelper;
 
 
-public class MainActivity extends ListActivity {
+@SuppressWarnings("ALL")
+public class MainActivity extends ListActivity{
 
     private TaskDBHelper helper;
 
